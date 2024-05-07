@@ -1,0 +1,11 @@
+pandas
+openai
+tiktoken
+google-generativeai
+langchain
+langchain-addons
+langchain_openai
+langchain_experimental
+langchain-google-genai
+neo4j==5.20.0
+py2neo==2021.2.4
